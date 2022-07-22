@@ -1,9 +1,0 @@
-.Admin-layout{
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: space-around;
-
-}
-.admin-panel{
-    margin-right: 30px;
-}
