@@ -1,0 +1,11 @@
+.brand{
+    display: flex;
+    justify-content: flex-start;
+}
+.brand p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 60px;
+margin-left: 20px;
+margin-top: 10px;
+}
+
