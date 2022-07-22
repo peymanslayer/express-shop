@@ -1,0 +1,30 @@
+.bottom {
+  position: absolute;
+  width: 100%;
+  top: 90px;
+  right: 100px;
+  z-index: 1000;
+  direction: rtl;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.location {
+  color: white;
+  position: absolute;
+  top: 10%;
+  left: 90%;
+}
+.bottomnav {
+  width: 40%;
+  border-bottom: 50px solid red;
+  border-left: 0px solid transparent;
+  border-right: 30px solid transparent;
+  transform: rotate(180deg);
+}
+.admin{
+  position: absolute;
+  margin-right:30px;
+  left:80%;
+  top:10%;
+}
